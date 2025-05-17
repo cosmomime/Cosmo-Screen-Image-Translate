@@ -1,7 +1,7 @@
 # Cosmo-Screen-Image-Translate
 Android Screen &amp; Image (Manga/Manhwa) Translator
 
-<img src="Translation Comparison.png" alt="Translation Comparison">
+<img src="Translation Quality Comparison.png" alt="Translation Quality Comparison">
 
 ## Screen Translation
 
