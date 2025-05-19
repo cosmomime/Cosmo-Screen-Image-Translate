@@ -41,14 +41,15 @@ Android Screen &amp; Image (Manga/Manhwa) Translator
 - **Translation Editing**: Modify translated text before applying
 - **Batch Processing**: Detect and translate text across multiple images
 - **Save Changes**: Apply translations directly to image files
-- **AI Chat Integration**: Easily use external AI Chat apps for translation:
+- **AI Chat Integration**: Easily use external AI Chat apps (Deepseek, etc.) for translation:
   1. Tap detect all pages and translate button
-  2. Tap Edit Detected List button
+  2. Tap edit detected list button
   3. Tap copy all entries button
   4. Paste and translate using free/paid AI chat apps (user discretion)
   5. Copy the result
   6. Tap paste all entries button
-  7. Tap Paint translations to images button
+  7. Tap transfer to translated list button
+  8. Tap paint translations to images button
 
 ### Viewing Options
 - **Image Navigation**: Browse through images in a folder
